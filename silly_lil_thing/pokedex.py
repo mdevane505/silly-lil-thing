@@ -41,6 +41,7 @@ types_value1 = data['types'][0]['type']['name']
 types_value2 = data['types'][1]['type']['name']
 
 print(types_value2)
+print(types_value1)
 # %%
 
 # %%
